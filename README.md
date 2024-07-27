@@ -16,13 +16,7 @@ Welcome to my GitHub profile! I'm a passionate web developer who loves learning 
 - 👨‍💻 My goal is to become a full-stack web developer.
 
 ## Technologies I Use
-
-- HTML5
-- Sass
-- CSS
-- VSC
-- Bootstrap
-
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vsc" width=40px; height=40px;> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="html5" width=40px; height=40px;> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="css" width=40px; height=40px;> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width=40px; height=40px;> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width=40px; height=40px;>
 
 <!--
 **Salernopablo/Salernopablo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
