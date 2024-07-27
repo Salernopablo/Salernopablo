@@ -1,4 +1,4 @@
-<h1>Hi everyone! Im Pablo Salerno <img src="![image](https://github.com/user-attachments/assets/38666167-2f1c-4158-ad6f-2acb4475deb9)" heigh="50px"> </h1>
+<h1>Hi everyone! Im Pablo Salerno <img src="https://github.com/user-attachments/assets/38666167-2f1c-4158-ad6f-2acb4475deb9" alt="Pablo" heigh="150px" width="200px"> </h1>
 <h2> Web Developer 💻</h2> 
 
 Welcome to my GitHub profile! I'm a argentinian passionate web developer who loves learning and working on web projects, both individually and as part of a team. I enjoy challenges and I'm always striving to develop my skills further.
